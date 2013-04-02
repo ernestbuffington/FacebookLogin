@@ -39,4 +39,4 @@ Permite que usuários usem a conta do facebook para fazer login em seu site.</p>
 
 <p>Coloque os arquivos deste repositório num servidor remoto (FTP), o facebook não aceita conexão em localhost. <br /> 
 Depois é só acessar a página: <br />
-Logged/testes/index.php</p>
+http://www.seusite.com.br/pasta_com_arquivos/Logged/testes/index.php</p>
