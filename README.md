@@ -1,5 +1,7 @@
 <h1 style="margin-bottom: 0px">Facebook Login</h1>
 
+<h3 style="border-bottom: 1px solid #999"><a href='http://www.felipemassariol.com.br/github/php/FacebookTool/Logged/' target='_blank'>Ver Exemplo.</a></h3>
+
 <p><b>Requisitos:</b><br />
 Ter um aplicativo no Facebook.<br />
 Obter os dados do aplicativo como app_ID e app_Secret.</p>
@@ -34,9 +36,3 @@ Permite que usuários usem a conta do facebook para fazer login em seu site.</p>
     ));
 
 ```
-
-<p><b>Testando o login com Facebook</b></p>
-
-<p>Coloque os arquivos deste repositório num servidor remoto (FTP), o facebook não aceita conexão em localhost. <br /> 
-Depois é só acessar a página: <br />
-http://www.seusite.com.br/pasta_com_arquivos/Logged/testes/index.php</p>
