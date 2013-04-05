@@ -1,6 +1,6 @@
 <h1 style="margin-bottom: 0px">Facebook Login</h1>
 
-<h3 style="border-bottom: 1px solid #999"><a href='http://www.felipemassariol.com.br/github/php/FacebookTool/Logged/' target='_blank'>Ver Exemplo.</a></h3>
+<h3 style="border-bottom: 1px solid #999"><a href='http://www.felipemassariol.com.br/github/php/facebookTool/Logged/' target='_blank'>Ver Exemplo.</a></h3>
 
 <p><b>Requisitos:</b><br />
 Ter um aplicativo no Facebook.<br />
